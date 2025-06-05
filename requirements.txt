@@ -1,0 +1,11 @@
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+PyQt5==5.15.9
+pyaudio==0.2.13
+python-dateutil==2.8.2
+transformers==4.36.2
+torch==2.1.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+pywin32==306
+psutil==5.9.8 
